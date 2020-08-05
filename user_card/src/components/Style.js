@@ -20,6 +20,6 @@ flex-wrap: wrap;
 `
 
 export const Follower = styled.div`
-
+``
 `
 
